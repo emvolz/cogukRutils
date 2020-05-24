@@ -7,6 +7,8 @@
 		- Install using `devtools::install_github( 'emvolz/treedater' )`
 	- `skygrowth` >=0.3.1 [https://github.com/mrc-ide/skygrowth](https://github.com/mrc-ide/skygrowth)
 		- `devtools::install_github( 'mrc-ide/skygrowth' )`
+	- `treestructure` >= 0.1.1 [https://github.com/emvolz-phylodynamics/treestructure](https://github.com/emvolz-phylodynamics/treestructure)
+		- `devtools::install_github( 'emvolz-phylodynamics/treestructure' )`
 - MAFFT 
 - IQTree
 - `sarscov2` package: [https://github.com/emvolz-phylodynamics/sarscov2Rutils](https://github.com/emvolz-phylodynamics/sarscov2Rutils)
